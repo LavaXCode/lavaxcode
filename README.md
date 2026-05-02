@@ -1,66 +1,109 @@
-<h1 align="center">🚀 Build Faster. Scale Smarter.</h1>
+<h1 align="center">🚀 Jeevanantham Gopal</h1>
 
-<h3 align="center">I'm Jeevanantham Gopal — Founder & Full Stack Developer</h3>
+<h3 align="center">Founder • Full Stack Developer • Product Builder</h3>
 
 <p align="center">
-Helping businesses build powerful web applications, automation systems, and scalable IT solutions.
+Building scalable web applications, SaaS products, and business automation systems since 2016
+</p>
+
+<p align="center">
+📍 Coimbatore, Tamil Nadu, India • 📧 ceo@jasperkeyplay.com
 </p>
 
 ---
 
-## 💼 Who I Work With
+## 🧠 About Me
 
-✔ Startups  
-✔ Small & Medium Businesses  
-✔ Agencies  
-✔ Entrepreneurs  
+I’m a self-made entrepreneur and developer focused on **building real-world business systems** — not just code.
+
+- 🏢 Founder & CEO — **JASPER KEYPLAY**
+- 💻 Founder — **ByteStore.in**
+- ⚙️ 8+ years building scalable solutions
+- 🎯 Focused on performance, automation & growth
 
 ---
 
-## 🧠 What I Can Do For You
+## 💼 What I Can Do For You
 
-### 🔹 Web Applications
-Custom-built platforms tailored to your business needs
+🔹 **Custom Web Applications**  
+→ Tailored systems for your business workflows  
 
-### 🔹 SaaS Development
-End-to-end SaaS product architecture & development
+🔹 **SaaS Product Development**  
+→ From idea → architecture → deployment  
 
-### 🔹 Business Automation
-Save time & cost with automated workflows
+🔹 **Business Automation**  
+→ Reduce manual work, increase efficiency  
 
-### 🔹 IT Solutions
-Complete hardware + software integration
+🔹 **IT Solutions (Hardware + Software)**  
+→ Complete infrastructure & integration  
 
 ---
 
 ## 🏢 My Companies
 
 ### 🚀 JASPER KEYPLAY
-> Web apps, SaaS, custom software solutions
+> Web applications • SaaS platforms • Custom software
 
 ### 🖥 ByteStore.in
-> Hardware + software + IT services
+> Complete IT solutions — hardware + software + services
 
 ---
 
-## ⚙️ Tech Expertise
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,python,js,laravel,mysql,mongodb,postgres,docker,aws,firebase,gcp,linux,figma" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,laravel,mysql,mongodb,postgres,docker,git,firebase,aws,gcp,swift,kotlin,linux,figma,photoshop,illustrator" />
 </p>
 
 ---
 
-## 📊 Why Work With Me?
+## 📂 Featured Projects
 
-- ✔ 8+ years of real business experience  
-- ✔ Not just coding — problem solving  
-- ✔ End-to-end execution (Idea → Deployment)  
-- ✔ Focus on scalability & performance  
+> *(Replace these with your real projects — don’t leave dummy content)*
+
+### 🔹 Project Name 1
+- Description: Short one-line explanation  
+- Tech: `Laravel` `MySQL` `AWS`  
+- 🔗 Link: https://github.com/your-repo  
 
 ---
 
-## 📞 Let's Build Something
+### 🔹 Project Name 2
+- Description: Business problem it solves  
+- Tech: `Node.js` `MongoDB`  
+- 🔗 Link: https://github.com/your-repo  
+
+---
+
+### 🔹 Project Name 3
+- Description: Automation / SaaS / tool  
+- Tech: `PHP` `Firebase`  
+- 🔗 Link: https://github.com/your-repo  
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LavaXCode&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavaXCode" />
+</p>
+
+---
+
+## 🤝 Why Work With Me
+
+- ✔ I build **business-focused solutions**, not just code  
+- ✔ Strong understanding of **real-world operations**  
+- ✔ End-to-end execution (Idea → Deployment → Scaling)  
+- ✔ Clean, scalable, and maintainable architecture  
+
+---
+
+## 📞 Let’s Build Something
 
 <p align="center">
 📧 <b>ceo@jasperkeyplay.com</b>
@@ -70,10 +113,10 @@ Complete hardware + software integration
 
 ## ⚡ Philosophy
 
-> Technology should grow your business — not complicate it.
+> Code is just a tool — the real goal is solving problems and creating impact.
 
 ---
 
 <p align="center">
-⭐ Explore my repositories to see real-world projects
+⭐ If you find my work useful, consider giving a star!
 </p>
