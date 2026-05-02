@@ -1,95 +1,80 @@
-<h1 align="center">Hi 👋, I'm Jeevanantham Gopal</h1>
-<h3 align="center">Entrepreneur • Full Stack Developer • Product Builder</h3>
+# Jeevanantham Gopal
 
-<p align="center">
-  Founder & CEO of <b>JASPER KEYPLAY</b> 🚀 <br/>
-  Building scalable web & IT solutions since 2016
-</p>
+**Entrepreneur | Full Stack Developer | Founder**
 
 ---
 
-## 🚀 About Me
+## 👨‍💼 About
 
-- 🧠 Self-made entrepreneur since 2016  
-- 🏢 Founder of **JASPER KEYPLAY** (Web & Software Development Company)  
-- 💻 Founder of **ByteStore.in** (Complete IT Solutions – Hardware + Software)  
-- 🌍 Based in Coimbatore, Tamil Nadu, India  
-- 📩 Reach me at: **ceo@jasperkeyplay.com**  
-- ⚡ Focus: Building real-world scalable products & automation systems  
+- Founder & CEO — **JASPER KEYPLAY**
+- Founder — **ByteStore.in**
+- Self-made entrepreneur since 2016  
+- Based in Coimbatore, Tamil Nadu, India  
+
+I build **scalable web applications, business systems, and IT solutions** that solve real-world problems.
+
+---
+
+## 🚀 What I Do
+
+- Web Application Development  
+- SaaS Product Development  
+- Business Automation Systems  
+- Custom Software Solutions  
+- IT Infrastructure & Deployment  
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Development
-<p>
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,laravel" />
-</p>
+**Languages**
+`PHP` `Python` `JavaScript` `HTML` `CSS`
 
-### 📱 Mobile & Systems
-<p>
-<img src="https://skillicons.dev/icons?i=swift,kotlin,linux" />
-</p>
+**Frameworks & Tools**
+`Laravel` `Bootstrap` `Docker` `Git`
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+**Databases**
+`MySQL` `MongoDB` `PostgreSQL`
 
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,gcp,vscode" />
-</p>
+**Cloud & Platforms**
+`AWS` `Google Cloud` `Firebase`
 
-### 🎨 Design & Media
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
+**Mobile & Systems**
+`Swift` `Kotlin` `Linux`
+
+**Design**
+`Figma` `Photoshop` `Illustrator`
 
 ---
 
 ## 🏢 Companies
 
-### 🔹 JASPER KEYPLAY
-> IT Company focused on Web Applications, SaaS Products & Custom Software Solutions
+### JASPER KEYPLAY
+IT company focused on:
+- Web applications
+- SaaS products
+- Custom business software
 
-### 🔹 ByteStore.in
-> Complete IT Solution Provider (Hardware + Software + Services)
-
----
-
-## 📈 What I Do
-
-- 🔥 Build scalable web applications  
-- 🧩 Develop custom business solutions  
-- ⚙️ Automate workflows & systems  
-- 🎯 Create high-performance websites  
-- 📦 Deliver end-to-end IT infrastructure  
+### ByteStore.in
+- Hardware + Software solutions  
+- Complete IT services provider  
 
 ---
 
-## 🧠 Currently Focused On
+## 📌 Current Focus
 
-- SaaS product development  
-- Business automation tools  
-- High-conversion web experiences  
-- Scaling IT services & digital products  
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: **ceo@jasperkeyplay.com**
-- 🌐 Website: *(Add your site here if needed)*
+- Building scalable SaaS products  
+- Automating business workflows  
+- Creating performance-driven web systems  
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact
 
-> I don’t just write code — I build businesses with it.
+- Email: **ceo@jasperkeyplay.com**
 
 ---
 
-<p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
-</p>
+## ⚡ Note
+
+> I don’t just build projects — I build systems that generate business value.
