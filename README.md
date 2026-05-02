@@ -1,80 +1,79 @@
-# Jeevanantham Gopal
+<h1 align="center">🚀 Build Faster. Scale Smarter.</h1>
 
-**Entrepreneur | Full Stack Developer | Founder**
+<h3 align="center">I'm Jeevanantham Gopal — Founder & Full Stack Developer</h3>
 
----
-
-## 👨‍💼 About
-
-- Founder & CEO — **JASPER KEYPLAY**
-- Founder — **ByteStore.in**
-- Self-made entrepreneur since 2016  
-- Based in Coimbatore, Tamil Nadu, India  
-
-I build **scalable web applications, business systems, and IT solutions** that solve real-world problems.
+<p align="center">
+Helping businesses build powerful web applications, automation systems, and scalable IT solutions.
+</p>
 
 ---
 
-## 🚀 What I Do
+## 💼 Who I Work With
 
-- Web Application Development  
-- SaaS Product Development  
-- Business Automation Systems  
-- Custom Software Solutions  
-- IT Infrastructure & Deployment  
-
----
-
-## 🧰 Tech Stack
-
-**Languages**
-`PHP` `Python` `JavaScript` `HTML` `CSS`
-
-**Frameworks & Tools**
-`Laravel` `Bootstrap` `Docker` `Git`
-
-**Databases**
-`MySQL` `MongoDB` `PostgreSQL`
-
-**Cloud & Platforms**
-`AWS` `Google Cloud` `Firebase`
-
-**Mobile & Systems**
-`Swift` `Kotlin` `Linux`
-
-**Design**
-`Figma` `Photoshop` `Illustrator`
+✔ Startups  
+✔ Small & Medium Businesses  
+✔ Agencies  
+✔ Entrepreneurs  
 
 ---
 
-## 🏢 Companies
+## 🧠 What I Can Do For You
 
-### JASPER KEYPLAY
-IT company focused on:
-- Web applications
-- SaaS products
-- Custom business software
+### 🔹 Web Applications
+Custom-built platforms tailored to your business needs
 
-### ByteStore.in
-- Hardware + Software solutions  
-- Complete IT services provider  
+### 🔹 SaaS Development
+End-to-end SaaS product architecture & development
 
----
+### 🔹 Business Automation
+Save time & cost with automated workflows
 
-## 📌 Current Focus
-
-- Building scalable SaaS products  
-- Automating business workflows  
-- Creating performance-driven web systems  
+### 🔹 IT Solutions
+Complete hardware + software integration
 
 ---
 
-## 📫 Contact
+## 🏢 My Companies
 
-- Email: **ceo@jasperkeyplay.com**
+### 🚀 JASPER KEYPLAY
+> Web apps, SaaS, custom software solutions
+
+### 🖥 ByteStore.in
+> Hardware + software + IT services
 
 ---
 
-## ⚡ Note
+## ⚙️ Tech Expertise
 
-> I don’t just build projects — I build systems that generate business value.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,python,js,laravel,mysql,mongodb,postgres,docker,aws,firebase,gcp,linux,figma" />
+</p>
+
+---
+
+## 📊 Why Work With Me?
+
+- ✔ 8+ years of real business experience  
+- ✔ Not just coding — problem solving  
+- ✔ End-to-end execution (Idea → Deployment)  
+- ✔ Focus on scalability & performance  
+
+---
+
+## 📞 Let's Build Something
+
+<p align="center">
+📧 <b>ceo@jasperkeyplay.com</b>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Technology should grow your business — not complicate it.
+
+---
+
+<p align="center">
+⭐ Explore my repositories to see real-world projects
+</p>
